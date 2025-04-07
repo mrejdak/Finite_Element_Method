@@ -27,3 +27,7 @@ python main.py
 Then enter the desired amount of points to calculate and click **Draw** button.
 
 ![example](resources/example.gif)
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
