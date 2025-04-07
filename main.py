@@ -32,7 +32,7 @@ def plot_fem():
 
 window = Tk()
 window.title("Finite Element Method (FEM)")
-window.geometry("600x500")
+window.geometry("550x500")
 
 Label(window, text="Number of points:").pack()
 entry = Entry(window)
