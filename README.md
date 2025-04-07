@@ -10,7 +10,7 @@ AGH University of Science and Technology in Kraków.
 ## Overview
 - FEM_solver.py: Contains function for calculating the numerical solution of the FEM equation.
 - main.py: Provides a graphical interface with Matplotlib and Tkinter for visualization of the FEM solution.
-- [Wyprowadzenie_sformulowania_wariacyjnego].pdf: Variational formula calculations (in Polish).
+- Wyprowadzenie\_sformulowania\_wariacyjnego.pdf: Variational formula calculations (in Polish).
 
 ## Installation
 To install the necessary dependencies, run:
